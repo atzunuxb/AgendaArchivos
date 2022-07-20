@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVjpvpyvkcuimZxYt2aaVQQOqNkhEyvLEzRT2IE/j/HhIunDE4MCxX+Kui6iUXwDRQUhSCzGo1MQj3D1UJfsLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baten\\Desktop\\CapacitacionDasGlobal\\1_CSharp5ASPNetCore\\ProyectosCurso.NET\\EjericioFinal_AgendaConArchivos\\EjericioFinal_AgendaConArchivos\\EjericioFinal_AgendaConArchivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baten\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
